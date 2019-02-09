@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Ali Ün',
   siteDescription: `ALi Uen Online CV`,
   authorName: 'Ali ÜN',
-  twitterUsername: '_franciscodf',
+  twitterUsername: 'UenMedia',
   githubUsername: 'Qurus',
   authorAvatar: '/images/avatar.jpeg',
   authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
@@ -85,9 +85,8 @@ module.exports = {
     /* ... */
   ],
   social: {
-    twitter: "https://twitter.com/_franciscodf",
-    linkedin: "https://www.linkedin.com/in/santos-francisco",
-    github: "https://github.com/santosfrancisco",
+    twitter: "https://twitter.com/UenMedia",
+    github: "https://github.com/Qurus",
     email: "ali.uen@uenmedia.de"
   },
   siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
