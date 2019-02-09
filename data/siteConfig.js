@@ -5,10 +5,7 @@ module.exports = {
   twitterUsername: 'UenMedia',
   githubUsername: 'Qurus',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
-    In 2012 I started working as a support technician and I approached the developers.
-    In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
-    I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong>`,
+  authorDescription: `I am Senior Front-end Developer and junior Back-end with 16+ years of experience leveraging JavaScript and html to build responsive websites, mobile apps, and interactive features that drive business growth and improve UX.`,
   skills: [
     {
       name: 'HTML',
@@ -43,12 +40,8 @@ module.exports = {
       level: 70
     },
     {
-      name: 'Photoshop',
+      name: 'Adobe Creative Suit',
       level: 90
-    },
-    {
-      name: 'Illustrator',
-      level: 70
     }
   ],
   jobs: [
